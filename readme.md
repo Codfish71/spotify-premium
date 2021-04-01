@@ -1,6 +1,5 @@
 Go to 
 C:\Windows\System32\drivers\etc
-
 Copy hosts file to desktop 
 Open hosts file in notepad
 Paste all the content below in that file and replace file in etc directory with host file on desktop
